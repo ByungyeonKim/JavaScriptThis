@@ -4,9 +4,10 @@
 
 #### 참고 영상 및 사이트
 
-코드종님 : https://youtu.be/PAr92molMHU?list=WL
-MDN web docs : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this
-bono's blog : https://blueshw.github.io/2018/03/12/this/
+- 코드종님 : https://youtu.be/PAr92molMHU?list=WL
+
+- MDN web docs : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this
+- bono's blog : https://blueshw.github.io/2018/03/12/this/
 
 ---
 
